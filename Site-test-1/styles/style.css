@@ -1,0 +1,33 @@
+html {
+  background-color: #ffffff;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  margin: 0 auto;
+}
+body{
+  width: 720px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+p,ol {
+  font-size: 16px;
+  list-style-type: disc;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+ol.saucisse {
+  font-size: 16px;
+  list-style-type: circle;
+  letter-spacing: 1px;
+  line-height: 2;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+img{
+ display: block;
+ margin: 0 auto;
+}
